@@ -4,7 +4,7 @@ A curated list of essential automation links. Suggest a link with a PR or [open 
 
 Selection criteria that increase the chance to make the cut:
 * For products, services or platforms:
-..* Transparent pricing available on the website
+⋅⋅* Transparent pricing available on the website
 
 Links make the cut if they are about automation technology that is open, standards-based, secure, interoperable, innovative, fast to set up.
 
