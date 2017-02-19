@@ -12,7 +12,8 @@ Links make the cut if they are about automation technology that is open, standar
 * [Mega-Trend Modular Systems](http://www.process-worldwide.com/discover-the-building-blocks-for-modular-plant-projects-a-494518/)
 * [DIMA - Decentralized Intelligence for Modular Applications](http://www.dima-process.com/wp-content/uploads/2015/12/WHITEPAPER_Technische_Loesung_fuer_die_Automatisierung_modularer_Anlagen.pdf) by Wago, German version
 * [Copadata IU edition 29] (https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwieusLYmpzSAhVBRZQKHfqSAMAQFggbMAA&url=https%3A%2F%2Fwww.copadata.com%2Fes%2F%3FeID%3Ddownload%26pluginName%3DCpddownloadsSingle%26controller%3DDownload%26action%3Ddownload%26uuid%3D45fd59bf-30fa-4075-bdba-a543d6c70ba7%26unlocked%3D0&usg=AFQjCNHQtQ0AkYx9wItRSeEZQQRNDFLiPg) about automated engineering and the Wago DIMA initiative
-
+* [Will Autodesk - Siemens collaboration resolve the CAD interoperability issue?](https://www.quora.com/Will-Autodesk-Siemens-collaboration-resolve-the-CAD-interoperability-issue)
+* [To Colonize Mars, Look to Standards Development](https://blog.opengroup.org/2017/01/26/to-colonize-mars-look-to-standards-development/)
 
 ## Required Viewing
 [Open Automation](https://www.youtube.com/watch?v=eLwMzJ9NVgA) by  Don Bartusiak, ExxonMobil @ ARC Forum 2016
@@ -32,6 +33,7 @@ Links make the cut if they are about automation technology that is open, standar
 * [OPC Foundation](https://opcfoundation.org/)
 * [MIMOSA - Operations and Maintenance Information Open System Alliance](http://www.mimosa.org/)
 * [ISPE - International Society for Pharmaceutical Engineering](http://www.ispe.org) promoting a.o. GAMP 5
+* [Open Group - Open Process Automation Forum](http://www.opengroup.org/open-process-automation) working on next-generation process control framework design and implementation.
 
 ### IEC 61131-3
 * [Building Blocks of IEC 61131-3](http://www.springer.com/cda/content/document/cda_downloaddocument/9783642120145-c1.pdf?SGWID=0-0-45-963407-p174031056) with chapter 2.2 explaining the difference between DIN 19239 and IEC 61131-3
@@ -83,10 +85,15 @@ Links make the cut if they are about automation technology that is open, standar
 * [Factory-X](https://github.com/factory-x/fx-example) Industrial code generation from FDS/DA documents
 * [Node-OPCUA](http://node-opcua.github.io/) OPC UA stack written in Javascript and NodeKS
 * [DotNetSiemensPLCToolBoxLibrary](https://github.com/dotnetprojects/DotNetSiemensPLCToolBoxLibrary) CSharp Library for working with Siemens Step5 and Step7 Projects, connecting to S5 or S7 PLC's
+* [ABC IT - Siemens PLC Simulation](http://www.abcit.eu/ProductsPage)
 
-## Communities and forums
+
+## Communities and Forums
 
 * [control.com forum](http://control.com/)
+* [learnaboutgmp.com forum](http://community.learnaboutgmp.com/)
+* [stackoverflow](http://stackoverflow.com/questions/tagged/plc+or+opc)
+* [Quora](https://www.quora.com/topic/Industrial-Automation)
 
 ## Programming Theory
 
@@ -123,11 +130,20 @@ Links make the cut if they are about automation technology that is open, standar
 
 ## Security
 
+* [Principles of OT security that doesn‘t suck](http://www.langner.com/en/wp-content/uploads/2017/02/Agile-OT-Security.pdf) by the lagnergroup
 
+## Training
+
+* [Udemy - Learn 5 PLCs in a Day-AB, Siemens, Schneider, Omron & Delta]( https://www.udemy.com/nfi-plc-online-leaning/)
+* [PLC Mentor](http://www.plcmentor.com/)
+* [Factory I/O](https://factoryio.com/) 3D Factory simulation and PLC training (Not affliated with factory-x.io)
+* [nfiautomation](http://nfiautomation.org/) Industrial Automation Courses
+* [George Brown College - PLC Technician](https://www.plctechnician.com/) Distance Education Program
 
 ## News and Blogs
 
 * [Harold On Controls](https://hennulat.wordpress.com/) by Harold Ennulat
+* [Contact and Coil](http://www.contactandcoil.com/) by Scott Whitlock
 
 
 ## Hardware
@@ -136,14 +152,20 @@ Links make the cut if they are about automation technology that is open, standar
 
 * [Wago](http://www.wago.us/products/components-for-automation/overview/) Open PLCs and IPCs programmable with CoDeSys
 * [Bedrock Automation](https://www.bedrockautomation.com/) Open PLCs programmable with CoDeSys
-* [ABB PLCs] (http://new.abb.com/plc) Best known for their DCS systems but their PLC IDE is based on CoDeSys
+* [ABB PLCs](http://new.abb.com/plc) Best known for their DCS systems but their PLC IDE is based on CoDeSys
+* [Beckhoff](https://www.beckhoff.com) IDE based on CoDeSys with their own runtime.
 * [Kunbus Revolution Pi](https://revolution.kunbus.com/) Open Source IPC based on Raspberry Pi
 * [Controllino](https://controllino.biz/) Open Source PLC based on Arduino
+* [Intel](http://www.intel.com/content/www/us/en/industrial-automation/overview.html) Industrial Automation portal
 
-## Historians / Time Series Databases
+### Cobots
 
-* [InfluxDB](https://www.influxdata.com/) Open Source Time Series Database
-* [Inmation](http://www.inmation.com/) Scalable NoSQL Time Series Database with unlimited tag licensing
+* [Rethink Robotics](https://github.com/RethinkRobotics/intera_sdk)
+
+## Augmented Reality
+
+* [Daqri](https://daqri.com/)
+* [Augmensys](http://www.augmensys.com)
 
 ## SCADA / HMI / Supervision
 
@@ -151,12 +173,27 @@ Links make the cut if they are about automation technology that is open, standar
 * [ABB Zenon SCADA/IoT software](http://new.abb.com/plc/zenon) Download on the bottom of the page, based on Copadata Zenon 
 * [Copadata zenon](https://www.copadata.com) innovative HMI/SCADA automation Software
 
+## Historians / Time Series Databases
+
+* [InfluxDB](https://www.influxdata.com/) Open Source Time Series Database
+* [Inmation](http://www.inmation.com/) Scalable NoSQL Time Series Database with unlimited tag licensing
+
+## Predictive Analytics
+
+* [Seeq](https://www.seeq.com/)
+* [Trendminer](https://www.trendminer.com/)
+
+
 ## Industrial Cloud-based Platforms (PaaS)
 
 * [GE Predix](https://www.predix.io/) Based on Cloud Foundry
 * [Siemens Mindsphere](siemens.com/mindsphere) 
+* [PTC](https://www.ptc.com/iot/#/manufacturing) partnering with GE
 
+## Architecture
 
+* [Microsoft Reference Architecture for Upstream](https://enterprise.microsoft.com/en-us/industries/process-manufacturing-and-resources/microsofts-upstream-reference-architecture/)
+* [Microsoft Reference Architecture for Process Manufacturing](https://enterprise.microsoft.com/en-us/industries/process-manufacturing-and-resources/microsofts-reference-architecture-for-process-manufacturing/)
 
 
 
