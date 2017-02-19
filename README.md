@@ -2,13 +2,12 @@
 
 A curated list of essential automation links. Suggest a link with a PR or [open a new issue](https://github.com/factory-x/essential-industrial-automation-links/issues/new).
 
-Links make the cut if they are about automation technology that is open, standards-based, secure, interoperable, innovative, fast to set up.
-Reasons why links might not make the cut:
+Selection criteria that increase the chance to make the cut:
+* For products, services or platforms:
+..* Transparent pricing available on the website
 
-* No demo version available
-* Closed system
-* Proprietary standards
-* Licensing based on tags and/or clients
+Links make the cut if they are about automation technology that is open, standards-based, secure, interoperable, innovative, fast to set up.
+
 
 ## Required Reading (Online resources)
 
@@ -26,9 +25,18 @@ Reasons why links might not make the cut:
 * [ARC Advisory Group](https://www.youtube.com/user/ARCadvisory/videos?view=0&shelf_id=0&sort=dd)
 
 
-## Spec
+## Specs and Standardization
 
+# Organizations
+* [PLCopen](http://www.plcopen.org/) Promoting a.o. IEC 61131-3
 
+# IEC 61131-3
+* [Building Blocks of IEC 61131-3](http://www.springer.com/cda/content/document/cda_downloaddocument/9783642120145-c1.pdf?SGWID=0-0-45-963407-p174031056) with chapter 2.2 explaining the difference between DIN 19239 and IEC 61131-3
+* [Siemens S7 Compliance and Deviations with/from IEC 61131-3](https://cache.industry.siemens.com/dl/files/932/8790932/att_82258/v1/norm_tbl.pdf)
+* [Allen-Bradley Logix5000 Compliance and Deviations with/from IEC 61131-3](https://cache.industry.siemens.com/dl/files/932/8790932/att_82258/v1/norm_tbl.pdf)
+
+# OPC UA
+* [Interest discussion on the Osisoft forum] (https://pisquare.osisoft.com/thread/6123)
 
 ## Books
 
@@ -39,14 +47,15 @@ Reasons why links might not make the cut:
 
 * [CoDeSys](https://www.codesys.com/) Independent IDE for industrial controllers according IEC 61131-3
 * [logi.CAD 3](http://www.logicals.com/en/logi-cad-3) Independent IDE for industrial controllers according IEC 61131-3
-* [Factory-X](https://www.factory-x.io) ICS code generation from FDS/DA documents
+* [Factory-X](https://github.com/factory-x/fx-example) Industrial code generation from FDS/DA documents
+* [DotNetSiemensPLCToolBoxLibrary](https://github.com/dotnetprojects/DotNetSiemensPLCToolBoxLibrary) CSharp Library for working with Siemens Step5 and Step7 Projects, connecting to S5 or S7 PLC's
 
 ## Libraries
 
 ### Open
 
 * [OSCAT Library] (http://www.oscat.de/dlmanager.html) Open Source Community for Automation Technology. Mainly German but there's English versions.
-* [Wago free process library for CoDeSys](http://global.wago.com/media/3_branchsolution/process_control_1/solution_package_1/AU-PW-US-DE-FP-140130_001_solution_package_water_final.pdf)
+* [free process library for CoDeSys](http://global.wago.com/media/3_branchsolution/process_control_1/solution_package_1/AU-PW-US-DE-FP-140130_001_solution_package_water_final.pdf) by Wago
 
 ### Vendor-Specific
 
