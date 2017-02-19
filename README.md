@@ -2,7 +2,7 @@
 
 A curated list of essential automation links. Suggest a link with a PR or [open a new issue](https://github.com/factory-x/essential-industrial-automation-links/issues/new).
 
-Links make the cut if are about automation technology that is open, standards-based, secure, interoperable, innovative and fast to set up.
+Links make the cut if they are about automation technology that is open, standards-based, secure, interoperable, innovative, fast to set up.
 Reasons why links might not make the cut:
 
 * No demo version available
