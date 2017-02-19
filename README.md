@@ -3,6 +3,12 @@
 A curated list of essential automation links. Suggest a link with a PR or [open a new issue](https://github.com/factory-x/essential-industrial-automation-links/issues/new).
 
 Links make the cut if are about automation technology that is open, standards-based, secure, interoperable, innovative and fast to set up.
+Reasons why links might not make the cut:
+
+* No demo version available
+* Closed system
+* Proprietary standards
+* Licensing based on tags and/or clients
 
 ## Required Reading (Online resources)
 
@@ -49,7 +55,8 @@ Links make the cut if are about automation technology that is open, standards-ba
 
 ## Historians / Time Series Databases
 
-* [InfluxDB](https://www.influxdata.com/)
+* [InfluxDB](https://www.influxdata.com/) Open Source Time Series Database
+* [Inmation](http://www.inmation.com/) Scalable NoSQL Time Series Database with unlimited tag licensing
 
 ## SCADA / HMI / Supervision
 
