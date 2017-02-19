@@ -10,7 +10,7 @@ Links make the cut if they are about automation technology that is open, standar
 * [UNICOS](http://unicos.web.cern.ch/) CERN-made framework to develop industrial control applications
 * [Kuka Industry 4.0 Glossary](https://www.kuka.com/-/media/kuka-corporate/documents/press/industry-4-0-glossary.pdf)
 * [Mega-Trend Modular Systems](http://www.process-worldwide.com/discover-the-building-blocks-for-modular-plant-projects-a-494518/)
-
+* [DIMA - Decentralized Intelligence for Modular Applications](http://www.dima-process.com/wp-content/uploads/2015/12/WHITEPAPER_Technische_Loesung_fuer_die_Automatisierung_modularer_Anlagen.pdf) by Wago, German version
 
 ## Required Viewing
 [Open Automation](https://www.youtube.com/watch?v=eLwMzJ9NVgA) by  Don Bartusiak, ExxonMobil @ ARC Forum 2016
@@ -24,7 +24,8 @@ Links make the cut if they are about automation technology that is open, standar
 ## Specs and Standardization
 
 # Organizations
-* [PLCopen](http://www.plcopen.org/) Promoting a.o. IEC 61131-3
+* [PLCopen](http://www.plcopen.org/) promoting a.o. IEC 61131-3
+* [OMAC - Organization for Machine Automation and Control](http://omac.org/) promoting a.o. PackML
 
 # IEC 61131-3
 * [Building Blocks of IEC 61131-3](http://www.springer.com/cda/content/document/cda_downloaddocument/9783642120145-c1.pdf?SGWID=0-0-45-963407-p174031056) with chapter 2.2 explaining the difference between DIN 19239 and IEC 61131-3
@@ -34,6 +35,9 @@ Links make the cut if they are about automation technology that is open, standar
 # OPC UA
 * [Advantages of OPC UA](https://opcfoundation.org/wp-content/uploads/2014/05/OPC-UA_Overview_EN.pdf)
 * [Interesting discussion on the Osisoft forum] (https://pisquare.osisoft.com/thread/6123)
+
+# PackML
+
 
 ## Books
 
@@ -54,6 +58,7 @@ Links make the cut if they are about automation technology that is open, standar
 
 * [OSCAT Library] (http://www.oscat.de/dlmanager.html) Open Source Community for Automation Technology. Mainly German but there's English versions.
 * [free process library for CoDeSys](http://global.wago.com/media/3_branchsolution/process_control_1/solution_package_1/AU-PW-US-DE-FP-140130_001_solution_package_water_final.pdf) by Wago
+* [CoDeSys PackML State Machine](http://store.codesys.com/omac-packml-state-machine.html) including example project
 
 ### Vendor-Specific
 
