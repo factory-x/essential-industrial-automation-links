@@ -16,7 +16,7 @@ Links make the cut if they are about automation technology that is open, standar
 * [To Colonize Mars, Look to Standards Development](https://blog.opengroup.org/2017/01/26/to-colonize-mars-look-to-standards-development/)
 
 ## Required Viewing
-[Open Automation](https://www.youtube.com/watch?v=eLwMzJ9NVgA) by  Don Bartusiak, ExxonMobil @ ARC Forum 2016
+* [Open Automation](https://www.youtube.com/watch?v=eLwMzJ9NVgA) by  Don Bartusiak, ExxonMobil @ ARC Forum 2016
 
 
 ## Video Channels
