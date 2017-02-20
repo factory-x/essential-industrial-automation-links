@@ -88,6 +88,7 @@ Links make the cut if they are about automation technology that is open, standar
 * [Node-OPCUA](http://node-opcua.github.io/) OPC UA stack written in Javascript and NodeKS
 * [DotNetSiemensPLCToolBoxLibrary](https://github.com/dotnetprojects/DotNetSiemensPLCToolBoxLibrary) CSharp Library for working with Siemens Step5 and Step7 Projects, connecting to S5 or S7 PLC's
 * [ABC IT - Siemens PLC Simulation](http://www.abcit.eu/ProductsPage)
+* [Wonderware Prometheus](https://www.wonderware.com/hmi-scada/prometheus/) Centralized configuration and management
 
 
 ## Communities and Forums
