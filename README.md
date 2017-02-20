@@ -14,6 +14,8 @@ Links make the cut if they are about automation technology that is open, standar
 * [Copadata IU edition 29] (https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwieusLYmpzSAhVBRZQKHfqSAMAQFggbMAA&url=https%3A%2F%2Fwww.copadata.com%2Fes%2F%3FeID%3Ddownload%26pluginName%3DCpddownloadsSingle%26controller%3DDownload%26action%3Ddownload%26uuid%3D45fd59bf-30fa-4075-bdba-a543d6c70ba7%26unlocked%3D0&usg=AFQjCNHQtQ0AkYx9wItRSeEZQQRNDFLiPg) about automated engineering and the Wago DIMA initiative
 * [Will Autodesk - Siemens collaboration resolve the CAD interoperability issue?](https://www.quora.com/Will-Autodesk-Siemens-collaboration-resolve-the-CAD-interoperability-issue)
 * [To Colonize Mars, Look to Standards Development](https://blog.opengroup.org/2017/01/26/to-colonize-mars-look-to-standards-development/)
+* [Real-Time HWIL Simulation of Liquid Food Process Lines
+](https://www.modelica.org/events/modelica2008/Proceedings/sessions/session6c3.pdf) at Tetrapack
 
 ## Required Viewing
 * [Open Automation](https://www.youtube.com/watch?v=eLwMzJ9NVgA) by  Don Bartusiak, ExxonMobil @ ARC Forum 2016
