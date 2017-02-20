@@ -114,6 +114,7 @@ Links make the cut if they are about automation technology that is open, standar
 
 * [OSCAT Library] (http://www.oscat.de/dlmanager.html) Open Source Community for Automation Technology. Mainly German but there's English versions.
 * [free process library for CoDeSys](http://global.wago.com/media/3_branchsolution/process_control_1/solution_package_1/AU-PW-US-DE-FP-140130_001_solution_package_water_final.pdf) by Wago
+* [process JSON data with CoDeSys](http://global.wago.com/en/services/downloads/download-search/index.jsp?_ts=1487548573829&action=search&nav=top%2Fdocuments%2Fkategorieen%3Asearch_downloadsEn_label%C7%81f%2Fsearch_downloadsEn_label%2Flibraries%C7%81search_downloadsEn_label%C7%81Libraries&q=codesys&b=10#appnotedetails7149071430032992696) by Wago
 * [CoDeSys PackML State Machine](http://store.codesys.com/omac-packml-state-machine.html) including example project
 
 ### Vendor-Specific
