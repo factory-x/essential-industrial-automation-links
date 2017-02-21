@@ -148,6 +148,7 @@ Links make the cut if they are about automation technology that is open, standar
 
 * [Harold On Controls](https://hennulat.wordpress.com/) by Harold Ennulat
 * [Contact and Coil](http://www.contactandcoil.com/) by Scott Whitlock
+* [Chief Spaghetti Coder](https://stefanhenneken.wordpress.com/) by Stefan Henneken
 
 
 ## Hardware
