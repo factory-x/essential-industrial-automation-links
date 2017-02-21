@@ -97,6 +97,7 @@ Links make the cut if they are about automation technology that is open, standar
 * [learnaboutgmp.com forum](http://community.learnaboutgmp.com/)
 * [stackoverflow](http://stackoverflow.com/questions/tagged/plc+or+opc)
 * [Quora](https://www.quora.com/topic/Industrial-Automation)
+* [Reddit](https://www.reddit.com/r/PLC/)
 
 ## Programming Theory
 
